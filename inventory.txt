@@ -1,0 +1,13 @@
+{"id":1,"makeModel":"mod","year":0,"retailPrice":0.0}
+{"id":2,"makeModel":"L_aXa[aObpoqwIr^ZiXW","year":2011,"retailPrice":18847.0}
+{"id":3,"makeModel":"mod","year":0,"retailPrice":0.0}
+{"id":4,"makeModel":"^M[mYtcFAVZSRkIEFnWl","year":1992,"retailPrice":19106.0}
+{"id":5,"makeModel":"Q\\vMCcrrttkOQEQqdKES","year":1991,"retailPrice":39114.0}
+{"id":6,"makeModel":"_irpdobJy\\XmDquZsqNT","year":2014,"retailPrice":40388.0}
+{"id":7,"makeModel":"L^novnNKlFTOELoejuKp","year":2004,"retailPrice":44515.0}
+{"id":8,"makeModel":"ACDgclKOtel_hZVnrNXf","year":2003,"retailPrice":38145.0}
+{"id":9,"makeModel":"tpuWHRMotKdwRWpCSeat","year":2011,"retailPrice":35148.0}
+{"id":10,"makeModel":"mod","year":0,"retailPrice":0.0}
+{"id":11,"makeModel":"mdKqBdeiKi[HPgaGtsEt","year":2008,"retailPrice":17485.0}
+{"id":12,"makeModel":"CoDcQgVvwGFfjIWafG]a","year":1990,"retailPrice":43598.0}
+{"id":13,"makeModel":"v\\diBjKFPNkSsRPrLppe","year":2003,"retailPrice":40690.0}
